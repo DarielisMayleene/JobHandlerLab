@@ -73,5 +73,6 @@ public class Position {
 		else {
 			return this.getSalary()*20.0*4.5*12.0;
 		}
-	}
+	} //comment
+	
 }
